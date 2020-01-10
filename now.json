@@ -2,12 +2,7 @@
 {
   "env": {
     "VUE_APP_API_BASE_URL": "https://spineless.commercelayer.io",
-    "VUE_APP_API_CLIENT_ID": "a6c1f4a88c0e8e1cee0ff55e095d5a41de82a31a2870fd60a3d51796ebfbd814"
-  },
-  "build": {
-    "env": {
-      "VUE_APP_API_BASE_URL": "https://spineless.commercelayer.io",
-      "VUE_APP_API_CLIENT_ID": "a6c1f4a88c0e8e1cee0ff55e095d5a41de82a31a2870fd60a3d51796ebfbd814"
-    }
+    "VUE_APP_API_CLIENT_ID": "a6c1f4a88c0e8e1cee0ff55e095d5a41de82a31a2870fd60a3d51796ebfbd814",
+    "VUE_APP_SUBSCRIPTION_REF": "NEWSLETTER"
   }
 }
